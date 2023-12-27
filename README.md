@@ -1,11 +1,22 @@
-# Sample Snack app
+# RentEv - Sistema de Aluguel de Eventos
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Visão Geral
+RentEv é um aplicativo móvel que oferece um sistema de aluguel de carros elétricos. O aplicativo visa facilitar a compra e venda de veículos elétricos, promovendo a adoção de tecnologias sustentáveis.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## O RentEv permite que usuários:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Pesquisem e visualizem.
+- Realizem reservas de espaços para datas específicas.
+- Visualizem e gerenciem suas reservas.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Funcionalidades
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- **Pesquisa de Espaços:** Explore uma variedade de espaços disponíveis para eventos.
+- **Reservas Simples:** Faça reservas de forma fácil e rápida.
+- **Histórico de Reservas:** Acesse um histórico completo de suas reservas anteriores.
+- **Favoritos:** Acesso histórico completo de seus carros favoritos.
+
+## Para utilizar
+
+- Basta entrar neste link: https://snack.expo.dev/@caiotelesz/rentev
+- email: user@gmail.com // senha: 1234
